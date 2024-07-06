@@ -17,7 +17,7 @@ Step 2 : Add Dependency to pom.xml
         <groupId>com.fasterxml.jackson.core</groupId>
         <artifactId>jackson-databind</artifactId>
     </dependency>
-
+[spring-boot-mysql](..%2Fspring-boot-mysql)
 Step 3 : To use Redis as cache add @EnableCache to the Spring Boot main class file
 
     @SpringBootApplication
